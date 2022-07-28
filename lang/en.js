@@ -63,7 +63,7 @@ CKEDITOR.plugins.setLang( 'link', 'en', {
 	toEmail: 'E-mail',
 	toUrl: 'URL',
 	toPhone: 'Phone',
-	toolbar: 'Link',
+	toolbar: 'Email/Phone/Regular Link',
 	type: 'Link Type',
 	unlink: 'Unlink',
 	upload: 'Upload'
